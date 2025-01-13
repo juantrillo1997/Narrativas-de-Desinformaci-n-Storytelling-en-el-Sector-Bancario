@@ -6,7 +6,7 @@ Contiene varios archivos:
 
 1. Un [*Informe técnico*](https://github.com/juantrillo1997/Narrativas-de-Desinformaci-n-Storytelling-en-el-Sector-Bancario/blob/main/Informe.pdf) muy detallado con toda la información de cómo se han deducido las métricas de estudio.
 2. Una [*Presentación Power Point*](https://github.com/juantrillo1997/Narrativas-de-Desinformaci-n-Storytelling-en-el-Sector-Bancario/blob/main/Presentacion_informe.pdf) de síntesis.
-3. Un [*PowerBi*](https://app.powerbi.com/groups/me/reports/84023733-2643-4b2b-91bd-8b29b1dfee71/709f6449ad844a19eb2f?experience=power-bi) sencillo para visualizar datos. Al hacer click en el enlace se abrirá el dashboard modo informe.
+3. Un [*PowerBi*](https://app.powerbi.com/links/E0ZEqbQ0yF?ctid=6b514c29-2391-4831-b774-84f35c45bf01&pbi_source=linkShare) sencillo para visualizar datos. Al hacer click en el enlace se abrirá el dashboard modo informe.
 4. Un [notebook](https://github.com/juantrillo1997/Narrativas-de-Desinformaci-n-Storytelling-en-el-Sector-Bancario/blob/main/NotebookPython.ipynb) con todo el proceso mental tras los cálculos, se podría decir que es el `padre` de este proyecto, pues todo se deduce de ahí.
 
 ## Observaciones
